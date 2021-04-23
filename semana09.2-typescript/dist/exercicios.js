@@ -38,7 +38,7 @@ for (let i = 0; i < 10; i++) {
     notas.push(Number((Math.random() * 10).toFixed(0)));
 }
 for (const nota of notas) {
-    console.log(nota);
+    // console.log(nota);
 }
 // #7
 const media = notas.reduce((a, b) => a + b) / 10;
