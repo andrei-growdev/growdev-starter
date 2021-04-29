@@ -8,6 +8,8 @@
   },
   "scripts":{
      "predev": "npx tsc",
-     "dev": "node ./dist/bbb"
+     "dev": "node ./dist/bbb",
+     "preexe": "npx tsc",
+     "exe": "node ./dist/exercicio"
   }
 }
