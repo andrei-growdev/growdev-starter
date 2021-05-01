@@ -12,6 +12,8 @@
      "preex02": "npx tsc",
      "ex02": "node ./dist/ex02",
      "preex03": "npx tsc",
-     "ex03": "node ./dist/ex02"
+     "ex03": "node ./dist/ex03",
+     "preex04": "npx tsc",
+     "ex04": "node ./dist/ex04"
   }
 }
