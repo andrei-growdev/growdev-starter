@@ -55,7 +55,7 @@ class Pagamento {
    }
 
    fazerPagamento(valorAPagar: number):void {
-
+      
    }
 
    atualizarValor():void {
